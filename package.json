@@ -1,0 +1,22 @@
+{
+  "name": "playwright-e2e-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio-ready Playwright E2E automation framework for a public demo e-commerce application.",
+  "scripts": {
+    "test": "playwright test",
+    "test:chromium": "playwright test --project=chromium",
+    "test:headed": "playwright test --headed --project=chromium --workers=1",
+    "test:portfolio-video": "cross-env DEMO_MODE=1 playwright test --config=playwright.demo.config.ts --headed --project=chromium --workers=1",
+    "video:portfolio": "npm run test:portfolio-video && node scripts/convert-latest-video.js",
+    "typecheck": "tsc --noEmit",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1",
+    "@types/node": "26.1.2",
+    "cross-env": "10.1.0",
+    "ffmpeg-static": "5.3.0",
+    "typescript": "7.0.2"
+  }
+}
