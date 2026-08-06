@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#0f172a"/>
+  <rect x="96" y="92" width="1408" height="716" rx="30" fill="#ffffff"/>
+  <rect x="96" y="92" width="1408" height="132" rx="30" fill="#1d4ed8"/>
+  <rect x="96" y="184" width="1408" height="40" fill="#1d4ed8"/>
+
+  <circle cx="138" cy="144" r="15" fill="#ef4444"/>
+  <circle cx="184" cy="144" r="15" fill="#f59e0b"/>
+  <circle cx="230" cy="144" r="15" fill="#22c55e"/>
+
+  <text x="126" y="328" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" fill="#111827">
+    Playwright E2E Portfolio
+  </text>
+  <text x="126" y="394" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#475569">
+    Client-ready UI test automation for a public e-commerce application
+  </text>
+
+  <g transform="translate(126 480)">
+    <rect width="302" height="160" rx="18" fill="#eff6ff" stroke="#bfdbfe" stroke-width="3"/>
+    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#1d4ed8">8</text>
+    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">UI scenarios</text>
+  </g>
+
+  <g transform="translate(476 480)">
+    <rect width="302" height="160" rx="18" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="3"/>
+    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#15803d">24</text>
+    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">browser runs</text>
+  </g>
+
+  <g transform="translate(826 480)">
+    <rect width="302" height="160" rx="18" fill="#fff7ed" stroke="#fed7aa" stroke-width="3"/>
+    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#c2410c">3</text>
+    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">browsers</text>
+  </g>
+
+  <g transform="translate(1176 480)">
+    <rect width="302" height="160" rx="18" fill="#fdf2f8" stroke="#fbcfe8" stroke-width="3"/>
+    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#be185d">MP4</text>
+    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">demo video</text>
+  </g>
+
+  <text x="126" y="728" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#334155">
+    TypeScript  |  Page Object Model  |  GitHub Actions  |  HTML reports  |  Videos on every run
+  </text>
+</svg>

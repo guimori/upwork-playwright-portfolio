@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <text x="96" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" fill="#111827">
+    Automation Architecture
+  </text>
+  <text x="96" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#475569">
+    A maintainable Playwright structure built around test intent, reusable page actions, and evidence.
+  </text>
+
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+
+  <g transform="translate(88 260)">
+    <rect width="300" height="150" rx="20" fill="#eff6ff" stroke="#93c5fd" stroke-width="3"/>
+    <text x="40" y="66" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#1d4ed8">Tests</text>
+    <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1e293b">login, inventory, checkout</text>
+  </g>
+
+  <line x1="410" y1="335" x2="540" y2="335" stroke="#64748b" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g transform="translate(560 260)">
+    <rect width="300" height="150" rx="20" fill="#f0fdf4" stroke="#86efac" stroke-width="3"/>
+    <text x="40" y="66" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#15803d">Page Objects</text>
+    <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1e293b">stable selectors and actions</text>
+  </g>
+
+  <line x1="882" y1="335" x2="1012" y2="335" stroke="#64748b" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g transform="translate(1032 260)">
+    <rect width="300" height="150" rx="20" fill="#fff7ed" stroke="#fdba74" stroke-width="3"/>
+    <text x="40" y="66" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#c2410c">Playwright</text>
+    <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1e293b">browser engine</text>
+  </g>
+
+  <line x1="1182" y1="432" x2="1182" y2="532" stroke="#64748b" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g transform="translate(1032 552)">
+    <rect width="300" height="150" rx="20" fill="#fdf2f8" stroke="#f9a8d4" stroke-width="3"/>
+    <text x="40" y="66" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#be185d">Evidence</text>
+    <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1e293b">videos, report, traces</text>
+  </g>
+
+  <g transform="translate(560 552)">
+    <rect width="300" height="150" rx="20" fill="#f8fafc" stroke="#cbd5e1" stroke-width="3"/>
+    <text x="40" y="66" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#334155">Fixtures</text>
+    <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1e293b">red click highlight</text>
+  </g>
+
+  <g transform="translate(88 552)">
+    <rect width="300" height="150" rx="20" fill="#fefce8" stroke="#fde68a" stroke-width="3"/>
+    <text x="40" y="66" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#a16207">Test Data</text>
+    <text x="40" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1e293b">users and checkout inputs</text>
+  </g>
+
+  <line x1="238" y1="532" x2="238" y2="432" stroke="#94a3b8" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="710" y1="532" x2="710" y2="432" stroke="#94a3b8" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g transform="translate(1352 552)">
+    <rect width="160" height="150" rx="18" fill="#111827"/>
+    <text x="32" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff">CI</text>
+    <text x="32" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#cbd5e1">CI checks</text>
+  </g>
+</svg>

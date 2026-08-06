@@ -6,6 +6,8 @@ Built to show how I structure a client-ready Playwright suite: clear scenarios, 
 
 Portfolio video: see the MP4 file in `artifacts/`.
 
+GitHub: https://github.com/guimori/upwork-playwright-portfolio
+
 ## Highlights
 
 - Playwright + TypeScript
@@ -86,6 +88,17 @@ artifacts/portfolio-headed-demo-YYYY-MM-DD_HH-mm-ss.mp4
 
 The demo video runs the main scenarios sequentially in one visible browser session.
 
+## Presentation Assets
+
+Use these images when creating a portfolio entry or proposal attachment:
+
+| Purpose | File |
+|---|---|
+| Cover image | `presentation/cover.png` |
+| Scenario explanation | `presentation/scenarios.png` |
+| Architecture | `presentation/architecture.png` |
+| Playwright report | `presentation/report.png` |
+
 ## Project Structure
 
 ```text
@@ -96,6 +109,7 @@ The demo video runs the main scenarios sequentially in one visible browser sessi
 |-- demos/portfolio-demo.spec.ts
 |-- fixtures/click-highlight.ts
 |-- pages/
+|-- presentation/
 |-- scripts/convert-latest-video.js
 |-- tests/
 |-- playwright.config.ts
