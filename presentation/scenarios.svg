@@ -1,44 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640">
-  <rect width="1600" height="640" fill="#080b12"/>
-  <text x="80" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#f8fafc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="980" viewBox="0 0 1300 980">
+  <rect width="1300" height="980" fill="#080b12"/>
+  <text x="70" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#f8fafc">
     Covered UI Scenarios
   </text>
-  <text x="80" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#cbd5e1">
+  <text x="70" y="158" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#cbd5e1">
     Critical e-commerce journeys validated across Chromium, Firefox, and WebKit.
   </text>
 
-  <g transform="translate(80 220)">
-    <rect width="440" height="280" rx="18" fill="#111827" stroke="#334155" stroke-width="3"/>
+  <g transform="translate(70 230)">
+    <rect width="1160" height="190" rx="18" fill="#111827" stroke="#334155" stroke-width="3"/>
     <circle cx="58" cy="62" r="26" fill="#1e3a8a"/>
     <text x="48" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#93c5fd">1</text>
     <text x="108" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#f8fafc">Authentication</text>
-    <text x="54" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Valid login</text>
-    <text x="54" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Invalid credentials</text>
-    <text x="54" y="242" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Locked-out user</text>
+    <text x="54" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Valid login | Invalid credentials | Locked-out user</text>
   </g>
 
-  <g transform="translate(580 220)">
-    <rect width="440" height="280" rx="18" fill="#111827" stroke="#334155" stroke-width="3"/>
+  <g transform="translate(70 466)">
+    <rect width="1160" height="190" rx="18" fill="#111827" stroke="#334155" stroke-width="3"/>
     <circle cx="58" cy="62" r="26" fill="#14532d"/>
     <text x="48" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#86efac">2</text>
     <text x="108" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#f8fafc">Inventory &amp; Cart</text>
-    <text x="54" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Add and remove item</text>
-    <text x="54" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Sort products by price</text>
-    <text x="54" y="242" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Cart persists after navigation</text>
+    <text x="54" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Add/remove item | Sort by price | Cart persists after navigation</text>
   </g>
 
-  <g transform="translate(1080 220)">
-    <rect width="440" height="280" rx="18" fill="#111827" stroke="#334155" stroke-width="3"/>
+  <g transform="translate(70 702)">
+    <rect width="1160" height="190" rx="18" fill="#111827" stroke="#334155" stroke-width="3"/>
     <circle cx="58" cy="62" r="26" fill="#7c2d12"/>
     <text x="48" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#fdba74">3</text>
     <text x="108" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#f8fafc">Checkout</text>
-    <text x="54" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Required field validation</text>
-    <text x="54" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Customer information</text>
-    <text x="54" y="242" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Successful purchase</text>
+    <text x="54" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#e2e8f0">Required field validation | Customer information | Successful purchase</text>
   </g>
-
-  <rect x="80" y="542" width="1440" height="56" rx="12" fill="#172033" stroke="#334155" stroke-width="2"/>
-  <text x="110" y="579" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#f8fafc">
-    8 scenarios x 3 browsers = 24 automated UI executions
-  </text>
 </svg>
