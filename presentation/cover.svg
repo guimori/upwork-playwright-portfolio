@@ -1,45 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#0f172a"/>
-  <rect x="96" y="92" width="1408" height="716" rx="30" fill="#ffffff"/>
-  <rect x="96" y="92" width="1408" height="132" rx="30" fill="#1d4ed8"/>
-  <rect x="96" y="184" width="1408" height="40" fill="#1d4ed8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640">
+  <rect width="1600" height="640" fill="#080b12"/>
+  <rect x="72" y="62" width="1456" height="516" rx="28" fill="#111827" stroke="#334155" stroke-width="3"/>
+  <rect x="72" y="62" width="1456" height="86" rx="28" fill="#172033"/>
+  <rect x="72" y="118" width="1456" height="30" fill="#172033"/>
 
-  <circle cx="138" cy="144" r="15" fill="#ef4444"/>
-  <circle cx="184" cy="144" r="15" fill="#f59e0b"/>
-  <circle cx="230" cy="144" r="15" fill="#22c55e"/>
+  <circle cx="116" cy="106" r="12" fill="#ef4444"/>
+  <circle cx="154" cy="106" r="12" fill="#f59e0b"/>
+  <circle cx="192" cy="106" r="12" fill="#22c55e"/>
 
-  <text x="126" y="328" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" fill="#111827">
-    Playwright E2E Portfolio
+  <text x="116" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#f8fafc">
+    Playwright QA Automation
   </text>
-  <text x="126" y="394" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#475569">
-    Client-ready UI test automation for a public e-commerce application
+  <text x="116" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#cbd5e1">
+    End-to-end web testing with reports, videos, CI, and maintainable Page Objects
   </text>
 
-  <g transform="translate(126 480)">
-    <rect width="302" height="160" rx="18" fill="#eff6ff" stroke="#bfdbfe" stroke-width="3"/>
-    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#1d4ed8">8</text>
-    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">UI scenarios</text>
+  <g transform="translate(116 372)">
+    <rect width="288" height="116" rx="14" fill="#0f1f3d" stroke="#3b82f6" stroke-width="2"/>
+    <text x="28" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#60a5fa">8</text>
+    <text x="28" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#e2e8f0">UI scenarios</text>
   </g>
 
-  <g transform="translate(476 480)">
-    <rect width="302" height="160" rx="18" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="3"/>
-    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#15803d">24</text>
-    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">browser runs</text>
+  <g transform="translate(440 372)">
+    <rect width="288" height="116" rx="14" fill="#0f2d22" stroke="#22c55e" stroke-width="2"/>
+    <text x="28" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#4ade80">24</text>
+    <text x="28" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#e2e8f0">browser runs</text>
   </g>
 
-  <g transform="translate(826 480)">
-    <rect width="302" height="160" rx="18" fill="#fff7ed" stroke="#fed7aa" stroke-width="3"/>
-    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#c2410c">3</text>
-    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">browsers</text>
+  <g transform="translate(764 372)">
+    <rect width="288" height="116" rx="14" fill="#33210f" stroke="#f97316" stroke-width="2"/>
+    <text x="28" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#fb923c">3</text>
+    <text x="28" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#e2e8f0">browsers</text>
   </g>
 
-  <g transform="translate(1176 480)">
-    <rect width="302" height="160" rx="18" fill="#fdf2f8" stroke="#fbcfe8" stroke-width="3"/>
-    <text x="34" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#be185d">MP4</text>
-    <text x="34" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1e293b">demo video</text>
+  <g transform="translate(1088 372)">
+    <rect width="288" height="116" rx="14" fill="#331528" stroke="#ec4899" stroke-width="2"/>
+    <text x="28" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#f472b6">MP4</text>
+    <text x="28" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#e2e8f0">demo video</text>
   </g>
 
-  <text x="126" y="728" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#334155">
-    TypeScript  |  Page Object Model  |  GitHub Actions  |  HTML reports  |  Videos on every run
+  <text x="116" y="540" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#94a3b8">
+    TypeScript | Playwright | HTML report | Screenshots | Videos | GitHub Actions
   </text>
 </svg>
