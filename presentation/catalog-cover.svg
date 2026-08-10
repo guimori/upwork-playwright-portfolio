@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="980" viewBox="0 0 1300 980">
+  <rect width="1300" height="980" fill="#070a12"/>
+  <rect x="72" y="78" width="1156" height="824" rx="30" fill="#111827" stroke="#334155" stroke-width="3"/>
+  <rect x="72" y="78" width="1156" height="94" rx="30" fill="#172033"/>
+  <rect x="72" y="138" width="1156" height="34" fill="#172033"/>
+
+  <circle cx="118" cy="126" r="13" fill="#ef4444"/>
+  <circle cx="160" cy="126" r="13" fill="#f59e0b"/>
+  <circle cx="202" cy="126" r="13" fill="#22c55e"/>
+
+  <text x="120" y="285" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" fill="#f8fafc">
+    QA Automation Testing
+  </text>
+  <text x="120" y="346" font-family="Segoe UI, Arial, sans-serif" font-size="32" fill="#cbd5e1">
+    Reliable automated tests for web, API, mobile,
+  </text>
+  <text x="120" y="390" font-family="Segoe UI, Arial, sans-serif" font-size="32" fill="#cbd5e1">
+    and hybrid application workflows
+  </text>
+
+  <g transform="translate(120 494)">
+    <rect width="500" height="120" rx="16" fill="#0f1f3d" stroke="#3b82f6" stroke-width="2"/>
+    <text x="32" y="51" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="#93c5fd">Web E2E</text>
+    <text x="32" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#e2e8f0">critical user flows and regressions</text>
+  </g>
+
+  <g transform="translate(680 494)">
+    <rect width="500" height="120" rx="16" fill="#0f2d22" stroke="#22c55e" stroke-width="2"/>
+    <text x="32" y="51" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="#86efac">API Tests</text>
+    <text x="32" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#e2e8f0">contract checks and backend validation</text>
+  </g>
+
+  <g transform="translate(120 656)">
+    <rect width="500" height="120" rx="16" fill="#33210f" stroke="#f97316" stroke-width="2"/>
+    <text x="32" y="51" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="#fdba74">Mobile QA</text>
+    <text x="32" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#e2e8f0">Android workflows and app behavior</text>
+  </g>
+
+  <g transform="translate(680 656)">
+    <rect width="500" height="120" rx="16" fill="#331528" stroke="#ec4899" stroke-width="2"/>
+    <text x="32" y="51" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="#f9a8d4">Evidence</text>
+    <text x="32" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#e2e8f0">reports, screenshots, and videos</text>
+  </g>
+
+  <text x="120" y="842" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#94a3b8">
+    Playwright | Selenium | Appium | Pytest | CI | Reports
+  </text>
+</svg>
